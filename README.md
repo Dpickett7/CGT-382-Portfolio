@@ -1,7 +1,8 @@
 # UX Portfolio
 
 This repository contains my personal UX and web design portfolio built using HTML and CSS.
-
+**Live Site**
+https://dpickett7.github.io/CGT-382-Portfolio/
 ## Pages
 - Home
 - About
